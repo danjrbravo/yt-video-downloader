@@ -1,0 +1,6 @@
+venv/
+.venv/
+
+#Created Folders
+Video/
+Audio/
