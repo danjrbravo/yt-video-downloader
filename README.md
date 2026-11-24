@@ -1,5 +1,5 @@
-# YouTube Downloader
-
+# YouTube Video Downloader
+> **Note:** It works with Youtube videos and Shorts.
 A simple Python application that allows you to download videos and audio from YouTube. It uses [Pytubefix](https://github.com/JuanBindez/pytubefix) to retrieve media streams and [FFmpeg](https://ffmpeg.org/) to merge video and audio or convert audio files to MP3.
 
 ## Features
